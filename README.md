@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there. I am Java Web Developer 😄
+Somewhen I will fill this page full...
+[![trophy](https://github-profile-trophy.vercel.app/?username=jahimees)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **Jahimees/Jahimees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
