@@ -1,8 +1,10 @@
 ### Hi there. I am Java Web Developer 😄
 Somewhen I will fill this page full...
 [![trophy](https://github-profile-trophy.vercel.app/?username=jahimees)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahimees)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Jahimees/Jahimees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
